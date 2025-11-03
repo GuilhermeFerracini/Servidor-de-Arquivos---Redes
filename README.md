@@ -179,6 +179,5 @@ Guilherme de Almeida Ferracini
 
 Isaque Ribeiro Carneiro 
 
-Marcelo de Carvalho
 
 Trabalho desenvolvido para a disciplina de Redes de Computadores - ICT/UNIFESP
